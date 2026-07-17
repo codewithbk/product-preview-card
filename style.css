@@ -134,7 +134,7 @@ body {
     }
 
     .image_area img {
-        content: url('/images/image-product-desktop.jpg');
+        content: url('images/image-product-desktop.jpg');
         height: 100%;
     }
 
