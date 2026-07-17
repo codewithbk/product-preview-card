@@ -22,7 +22,6 @@ body {
     height: auto;
     width: 100%;
     background-color: #fff;
-    font-family: "Montserrat", sans-serif;
 }
 
 .main_container {
@@ -54,6 +53,7 @@ body {
 .text_area {
     flex: 1;
     padding: 25px;
+    font-family: "Montserrat", sans-serif;
 }
 
 .b_tags h4 {
